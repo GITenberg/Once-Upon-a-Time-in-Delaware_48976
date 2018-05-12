@@ -1,4 +1,5 @@
 _repo: Once-Upon-a-Time-in-Delaware_48976
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,6 +10,9 @@ contributor:
     agent_name: Brown, Ethel Pennewill
     gutenberg_agent_id: '45072'
     url: http://www.gutenberg.org/2009/agents/45072
+covers:
+- cover_type: archival
+  image_path: 48976-h/images/cover.jpg
 creator:
   author:
     agent_name: Pyle, Katharine
@@ -19,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1139
     wikipedia: http://en.wikipedia.org/wiki/Katharine_Pyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48976#Once-Upon-a-Time-in-Delaware
 gutenberg_issued: '2015-05-16'
 gutenberg_type: Text
 identifiers:
